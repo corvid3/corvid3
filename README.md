@@ -1,6 +1,9 @@
-hi, i'm korvo. i try to do cool stuff, but i always get distracted.  
-oni ne cxiam povos kontakti min. please, don't try to contact me. unless you really want to. i prefer my anoniminity.   
-mi parolas esperanton; mi esperas, ke mi lernos la hispanan kaj la finan dum la estonteco, sed eble mi ne faros. 
+hi, i'm korvo.  
+i work on more backend-y projects, i'm not a fan of frontend work.  
+i know c, zig, & rust.  
+i can comprehend c++, c#, and java.  
+please do not try to find a way to contact me unless you have something extraordinarily important.  
+esperanton mi povas paroli ankaux.
 
 <!---
 corvid3/corvid3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
