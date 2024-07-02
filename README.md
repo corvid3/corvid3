@@ -1,5 +1,4 @@
 hi, i'm natsuonde.  
-i work on more backend-y projects, i'm not a fan of frontend work.  
 i know c, c++, & rust.  
 i can comprehend c#, zig, and java.  
 please do not try to find a way to contact me unless you have something extraordinarily important.  
